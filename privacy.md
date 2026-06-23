@@ -1,8 +1,3 @@
----
-layout: default
-title: Privacy Policy
----
-
 # Privacy Policy for Buttekha
 
 **Last updated:** 23 June 2026
@@ -71,9 +66,7 @@ You have the right to:
   all future collection).
 
 To exercise these rights, email **privacy@delv.org** with a request and
-the anonymous identifier you wish to act on. (You can find your identifier
-inside the App's settings, if exposed in a future version; otherwise
-contact us and we will help locate it.)
+the anonymous identifier you wish to act on.
 
 ## Children
 
@@ -89,4 +82,4 @@ most recent change.
 
 ## Contact
 
-Questions about this policy or about your data: **saeed.iqtaish@delv.com**
+Questions about this policy or about your data: **privacy@delv.org**
