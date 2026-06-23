@@ -89,4 +89,4 @@ most recent change.
 
 ## Contact
 
-Questions about this policy or about your data: **privacy@delv.org**
+Questions about this policy or about your data: **saeed.iqtaish@delv.com**
